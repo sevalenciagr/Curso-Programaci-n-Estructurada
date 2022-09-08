@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660058419 source:f:\curso programación estructurada\cadenacaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+

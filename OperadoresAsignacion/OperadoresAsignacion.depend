@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659045141 source:f:\curso programación estructurada\operadoresasignacion\main.c
+	<stdio.h>
+	<stdlib.h>
+

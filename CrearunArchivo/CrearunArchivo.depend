@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660083970 source:f:\curso programación estructurada\crearunarchivo\main.c
+	<stdio.h>
+	<stdlib.h>
+

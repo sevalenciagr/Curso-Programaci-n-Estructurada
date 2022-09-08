@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660166464 source:f:\curso programación estructurada\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1660166451 f:\curso programación estructurada\librerias\operaciones.h
+

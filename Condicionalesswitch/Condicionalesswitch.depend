@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659580067 source:f:\curso programación estructurada\condicionalesswitch\main.c
+	<stdio.h>
+	<stdlib.h>
+

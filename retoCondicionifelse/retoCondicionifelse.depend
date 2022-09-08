@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659210600 source:f:\curso programación estructurada\retocondicionifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+
